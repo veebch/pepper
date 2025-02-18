@@ -17,6 +17,10 @@ The files for the 3d printed enclosure
 
 The calculator is at https://veeb.ch/projects
 
+## Build Video
+
+https://youtu.be/vGyMrAtvg8A
+
 
 
 
