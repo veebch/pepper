@@ -4,6 +4,12 @@
 
 # Pepper Pi
 
+How to build a floating transparent display for a Raspberry Pi 5.
+
+## Build Video
+
+https://youtu.be/vGyMrAtvg8A
+
 ## OS commands
 To flip the display for reflection:
 ```
@@ -17,9 +23,7 @@ The files for the 3d printed enclosure are in the directory [3d](./3d)
 
 The calculator is at [veeb.ch](https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome)
 
-## Build Video
 
-https://youtu.be/vGyMrAtvg8A
 
 
 
