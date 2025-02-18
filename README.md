@@ -9,7 +9,7 @@ How to build a floating transparent display for a Raspberry Pi 5.
 ## Components
 - Raspberry Pi 5
 - Round DSI LED screen (Waveshare)
-- Glass dome
+- Glass dome (90mm diameter, internal diameter is ~87mm)
 - Acrylic Reflector
 - 3d Printed Enclosure
 
