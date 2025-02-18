@@ -15,7 +15,7 @@ The files for the 3d printed enclosure
 
 ## Reflector Shape Calculator
 
-The calculator is at <link>
+The calculator is at https://veeb.ch/projects
 
 
 
