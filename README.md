@@ -11,7 +11,7 @@ wlr-randr --output DSI-2 --transform flipped-180
 ```
 ## Enclosure 
 
-The files for the 3d printed enclosure
+The files for the 3d printed enclosure are in the directory 3d
 
 ## Reflector Shape Calculator
 
