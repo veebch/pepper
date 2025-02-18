@@ -15,7 +15,7 @@ The files for the 3d printed enclosure are in the directory [3d](./3d)
 
 ## Reflector Shape Calculator
 
-The calculator is at https://veeb.ch/projects
+The calculator is at [veeb.ch](https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome)
 
 ## Build Video
 
