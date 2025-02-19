@@ -31,7 +31,7 @@ alias dome='mpv  --fs --fs-screen=1'
 ```
 Videos that are sent to the screen should be 800x800 videos. 
 
-For music, use [cava](https://github.com/karlstav/cava) on a terminal that has been maximised on the display.
+For music visualisation, use [cava](https://github.com/karlstav/cava) on a terminal that has been maximised on the display.
 
 ## Enclosure 
 
