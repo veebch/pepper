@@ -10,6 +10,9 @@ How to build the floating transparent display for a Raspberry Pi 5 described in 
 
 https://youtu.be/vGyMrAtvg8A
 
+The video contains (at least) one error. The reflector angle for a dome that is on a desk is should be *more* than 45 degrees, not less. 
+
+
 ## Components
 - Raspberry Pi 5
 - Round DSI LED screen (3.4inch (86mm) Waveshare)
