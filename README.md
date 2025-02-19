@@ -27,6 +27,10 @@ alias for the ```dome``` command (depends on [mpv](https://github.com/mpv-player
 ```
 alias dome='mpv  --fs --fs-screen=1'
 ```
+Videos that are sent to the screen should be 800x800 videos. 
+
+For music, use cava on a terminal that has been maximised on the display.
+
 ## Enclosure 
 
 The files for the 3d printed enclosure are in the directory [3d](./3d)
