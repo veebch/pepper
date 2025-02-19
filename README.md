@@ -39,7 +39,7 @@ The files for the 3d printed enclosure are in the directory [3d](./3d)
 
 ## Reflector Shape Calculator
 
-The calculator is at [veeb.ch](https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome)
+Depending on the diameter of the dome and the typical view angle, the shape of your reflector will change. To save you some work, we've made a calculator that will give you a template for the shape reflector that you need to use. The calculator is at [veeb.ch](https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome)
 
 
 
