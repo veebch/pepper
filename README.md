@@ -14,7 +14,7 @@ The video contains (at least) one error. The reflector angle for a dome that is 
 
 
 ## Components
-- Raspberry Pi 5
+- Raspberry Pi 5 (any model of the 5 should work)
 - Round DSI LED screen (3.4inch (86mm) Waveshare)
 - Glass dome (the one used in the video is 90mm diameter, internal diameter is ~87mm)
 - Acrylic Reflector
