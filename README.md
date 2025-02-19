@@ -22,6 +22,11 @@ To flip the display for reflection:
 ```
 wlr-randr --output DSI-2 --transform flipped-180
 ```
+alias for the ```dome``` command (depends on [mpv](https://github.com/mpv-player/mpv))
+
+```
+alias dome='mpv  --fs --fs-screen=1'
+```
 ## Enclosure 
 
 The files for the 3d printed enclosure are in the directory [3d](./3d)
