@@ -4,7 +4,11 @@
 
 # Pepper Pi
 
-How to build a floating transparent display for a Raspberry Pi 5.
+How to build the floating transparent display for a Raspberry Pi 5 described in the build video.
+
+## Build Video
+
+https://youtu.be/vGyMrAtvg8A
 
 ## Components
 - Raspberry Pi 5
@@ -13,9 +17,7 @@ How to build a floating transparent display for a Raspberry Pi 5.
 - Acrylic Reflector
 - 3d Printed Enclosure
 
-## Build Video
 
-https://youtu.be/vGyMrAtvg8A
 
 ## OS commands
 To flip the display for reflection:
