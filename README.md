@@ -12,8 +12,8 @@ https://youtu.be/vGyMrAtvg8A
 
 ## Components
 - Raspberry Pi 5
-- Round DSI LED screen (Waveshare)
-- Glass dome (90mm diameter, internal diameter is ~87mm)
+- Round DSI LED screen (3.4inch (86mm) Waveshare)
+- Glass dome (the one used in the video is 90mm diameter, internal diameter is ~87mm)
 - Acrylic Reflector
 - 3d Printed Enclosure
 
