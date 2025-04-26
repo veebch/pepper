@@ -8,7 +8,7 @@ How to build the floating transparent display for a Raspberry Pi 5 described in 
 
 ## Build Video
 
-https://youtu.be/vGyMrAtvg8A
+[here](https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome)
 
 The video contains (at least) one error. The reflector angle for a dome that is on a desk is should be *more* than 45 degrees, not less. So the cut angle that is used in the shape calculator should be 60, not 30 degrees.
 
