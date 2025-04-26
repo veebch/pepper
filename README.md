@@ -6,12 +6,13 @@
 
 How to build the floating transparent display for a Raspberry Pi 5 described in the build video.
 
-## Build Video
+## Build Video and Reflector Shape Calculator
 
-[here](https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome)
+Both are [here](https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome).
 
 The video contains (at least) one error. The reflector angle for a dome that is on a desk is should be *more* than 45 degrees, not less. So the cut angle that is used in the shape calculator should be 60, not 30 degrees.
 
+Depending on the diameter of the dome and the typical view angle, the shape of your reflector will change. To save you some work, we've made a calculator that will give you a template for the shape reflector that you need to use.
 
 ## Components
 - Raspberry Pi 5 (any model of the 5 should work)
@@ -40,9 +41,7 @@ For music visualisation, use [cava](https://github.com/karlstav/cava) on a termi
 
 The files for the 3d printed enclosure are in the directory [3d](./3d)
 
-## Reflector Shape Calculator
 
-Depending on the diameter of the dome and the typical view angle, the shape of your reflector will change. To save you some work, we've made a calculator that will give you a template for the shape reflector that you need to use. The calculator is [here](https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome)
 
 
 
